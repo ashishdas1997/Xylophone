@@ -1,6 +1,9 @@
 # flutterapp
 Love Music?
-It's a working XyloPhone.
+Why not play your own? 
+Let's make it easy.
+Here's a working XyloPhone.
+Made with Love
 ## Getting Started
 
 This project is a starting point for a Flutter application.
